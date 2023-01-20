@@ -7,12 +7,15 @@ html {
     height: 100%;
 }
 body {
-  font-family: "Montserrat";
+  
+      font-family: 'Public Sans', sans-serif;
+  
   text-align: center;
 }
 
  h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+   font-family: 'Public Sans',
+   sans-serif;
   /* font: normal normal normal 30px/34px Helvetica Neue; */
 letter-spacing: 0px;
 color: #707070;
@@ -21,9 +24,12 @@ opacity: 1;
 
 p {
   color: #8f8f8f;
+   font-family: 'Public Sans',
+   sans-serif;
 }
 .made4you{
-    font-family: "Montserrat-Black";
+    font-family: 'Public Sans',
+    sans-serif;
 }
 
 /* Navigation Bar */
@@ -40,7 +46,8 @@ p {
 }
 
 .navbar-brand {
-    font-family: "Ubuntu";
+     font-family: 'Public Sans',
+     sans-serif;
     font-size: 1.3rem;
     font-weight: bold;
 
@@ -54,7 +61,12 @@ p {
 
 .nav-link {
     font-size: 1rem;
-    font-family: "Montserrat-Light";
+  font-family: 'Public Sans',
+  sans-serif;
+}
+button{
+     font-family: 'Public Sans',
+     sans-serif;
 }
 
 .img-responsive{
@@ -221,4 +233,27 @@ width: 100%;
         margin-left:40px;
         margin-right:40px;
      }
-     
+     .box_main h4.active {
+         color: #000;
+     }
+     .broadband_text  {
+         width: 100%;
+         float: left;
+         font-size: 30px;
+         color: #fff;
+         text-align: center;
+         font-weight: 600;
+         padding-top: 15px;
+     }
+     h4 {
+         display: block;
+         margin-block-start: 1.33em;
+         margin-block-end: 1.33em;
+         margin-inline-start: 0px;
+         margin-inline-end: 0px;
+         font-weight: bold;
+     }
+     .card-img-top {
+         width: 100%;
+         height: auto;
+     }
