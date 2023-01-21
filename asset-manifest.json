@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/made4-you/static/css/main.073c9b0a.css",
-    "main.js": "/made4-you/static/js/main.519a9797.js",
+    "main.js": "/made4-you/static/js/main.390ca364.js",
     "static/js/905.44bc4e51.chunk.js": "/made4-you/static/js/905.44bc4e51.chunk.js",
     "index.html": "/made4-you/index.html",
     "main.073c9b0a.css.map": "/made4-you/static/css/main.073c9b0a.css.map",
-    "main.519a9797.js.map": "/made4-you/static/js/main.519a9797.js.map",
+    "main.390ca364.js.map": "/made4-you/static/js/main.390ca364.js.map",
     "905.44bc4e51.chunk.js.map": "/made4-you/static/js/905.44bc4e51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.519a9797.js"
+    "static/js/main.390ca364.js"
   ]
 }
