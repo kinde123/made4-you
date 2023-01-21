@@ -11,6 +11,10 @@ body {
       font-family: 'Public Sans', sans-serif;
   
   text-align: center;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
  h2, h3, h4, h5, h6 {

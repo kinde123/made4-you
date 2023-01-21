@@ -4,12 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import {
     MDBFooter,
-    MDBContainer,
-    MDBIcon,
-    MDBInput,
-    MDBCol,
-    MDBRow,
-    MDBBtn
+    
 } from 'mdb-react-ui-kit';
 
 class Home extends React.Component {
@@ -126,7 +121,7 @@ class Home extends React.Component {
                                                                 <img
                                                                     className="card-img-top"
                                                                     src="assets/image/pp1.jpg"
-                                                                    alt="Card image"
+                                                                    alt="CardImage"
                                                                     style={{
                                                                         width: '100%'
                                                                     }}/>
@@ -222,10 +217,10 @@ class Home extends React.Component {
                                                     KRAJACH - LICZBA LICZBA ZROBIONYCH PROJEKTÓW W ANGLII - LICZBA ARCHITEKCI
                                                     WSPÓŁPRACUJĄCY - LICZBA < /p > < /div> < div className = "col-lg-6" > < div
                                                     className = "right" > < img className = "banner-image" src =
-                                                    "assets/image/m2.jpeg " alt = "photo" /> < /div > < /div> < /div >
+                                                    "assets/image/m2.jpeg " alt = "made" /> < /div > < /div> < /div >
                                                     <div className="row" id="image-side">
                                                         <div className="col-lg-6">
-                                                            <img className="banner-image" src="assets/image/m3.jpeg" alt="photo"/>
+                                                            <img className="banner-image" src="assets/image/m3.jpeg" alt="made4"/>
                                                             < /div>
 
                                                                 < div className="col-lg-6">
@@ -290,7 +285,7 @@ class Home extends React.Component {
                                                                                                  <div className='text-center p-3' style={{ backgroundColor: 'rgba(#212529)' }}>
                                                                                                         ©2023 Copyright. Designed by Kinde Tesfaye.
                        <
-                       a className = 'text-white'
+                       a className = 'text-white' href="#home"
                     >
                         <
                        /a> <
